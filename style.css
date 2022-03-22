@@ -12,5 +12,22 @@ body {
 
 .embed {
     text-align: center;
-    padding-top: 100px;
+    padding-top: 75px;
+}
+
+.listen {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.apple {
+  width: 180px;
+  height: 44px;
+  padding-right: 20px;
+}
+
+.spotify {
+  width: 180px;
+  height: 44px;
+  padding-left: 20px;
 }
