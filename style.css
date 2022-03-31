@@ -15,25 +15,12 @@ body {
     padding-top: 100px;
 }
 
-.listen {
+.links {
   text-align: center;
-  padding-top: 140px;
-  padding-bottom: 110px;
+  padding-top: 100px;
+  padding-bottom: 400px;
 }
 
-.apple {
-  width: 180px;
-  height: 44px;
-  padding-right: 25px;
-}
-
-.spotify {
-  width: 180px;
-  height: 44px;
-  padding-left: 25px;
-}
-
-.twitter-embeds {
-  text-align: center;
-  padding-bottom: 150px;
+.button {
+  width: 200px;
 }
