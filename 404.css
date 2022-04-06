@@ -1,0 +1,22 @@
+html, body {
+    background-image: linear-gradient(to bottom right, #c6ffb5, #000000);
+    font-family: 'Bungee', cursive;
+    margin:0px;
+    height:100%;
+}
+
+.lost {
+    text-align: center;
+    color: #000000;
+    font-size: xx-large;
+    padding-top: 100px;
+}
+
+.main {
+    height: 100vh;
+}
+
+.lost2 {
+    text-align: center;
+    color: #000000;
+}
